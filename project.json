@@ -1,6 +1,6 @@
 {
   "name": "UiPathCodeDocumentationHelper",
-  "description": "This process document all xaml files info file name, type annotation variables arguments in excel file",
+  "description": "Automated solution to help in UiPath code documentation",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.5]",
