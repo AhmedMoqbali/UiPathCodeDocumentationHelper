@@ -17,7 +17,7 @@ Automated solution to help in UiPath code documentation
 
 <b>Input:</b> UiPath Code Folder Path 
 <br><br>
-<b>Output: Excel file withfollowing details:</b><br>
+<b>Output:</b> Excel file withfollowing details:<br>
 	Project details<br>
 	Folder Structure<br>
 	xaml files details( file name, type, annotation, variables and arguments)<br>
