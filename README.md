@@ -15,7 +15,7 @@ Automated solution to help in UiPath code documentation
 3. Once the process finishes, check the files in DocumentationHelper folder (C:\Users\UserName\Documents\DocumentationHelper).
 <br><br>
 
-<b>Input: UiPath Code Folder Path 
+<b>Input:</b> UiPath Code Folder Path 
 <br><br>
 <b>Output: Excel file withfollowing details:</b><br>
 	Project details<br>
