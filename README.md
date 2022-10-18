@@ -1,11 +1,5 @@
 Automated solution to help in UiPath code documentation
 <br><br>
-Input: UiPath Code Folder Path 
-<br><br>
-Output: Excel file with all Code details<br>
-Output: Project details<br>
-	Folder Structure<br>
-	xaml files details( file name, type, annotation, variables and arguments)<br>
 	
 <b>Challenge:</b> After development, the design and architecture of the solution need to be documented in solution design document (DSD). It is a difficult and time-consuming process to get workflow (xaml files) details like file name, description, variables, and arguments. This will be more difficult if the solution contains many files.<br><br>
 
@@ -19,3 +13,11 @@ Output: Project details<br>
 1. Download the code and unzip it.<br>
 2. Execute it and provide the code folder path where project.json is placed.<br>
 3. Once the process finishes, check the files in DocumentationHelper folder (C:\Users\UserName\Documents\DocumentationHelper).
+<br><br>
+
+<b>Input: UiPath Code Folder Path 
+<br><br>
+<b>Output: Excel file withfollowing details:</b><br>
+	Project details<br>
+	Folder Structure<br>
+	xaml files details( file name, type, annotation, variables and arguments)<br>
